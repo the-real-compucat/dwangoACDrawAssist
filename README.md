@@ -1,7 +1,7 @@
 # dwangoACDrawAssist
-Python scripts to assist with using the pbn (paint by number) part of dwangoAC's chat.
+Python scripts to assist with using the pbn (paint by number) part of dwangoAC's chat. Originally by Zayitskin, modified by CompuCat.
 
-All of my scripts are in Python3. Sorry for any inconvience.<br>
+All of the scripts are in Python3. Sorry for any inconvience.<br>
 The first script is convert.py.<br>
 YOU MUST HAVE PYGAME INSTALLED!<br>
 Pygame is used both as a GUI for the script as well as the backend, and is therefore very required.<br>
